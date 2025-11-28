@@ -8,7 +8,7 @@ The goal is to show clear analytical thinking, technical capability, and the abi
 
 📂 Dataset
 
-Source: [Insert dataset source or name]
+Source: customer_shopping_behavior.csv
 
 Format: CSV
 
