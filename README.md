@@ -12,7 +12,7 @@ Source: customer_shopping_behavior.csv
 
 Format: CSV
 
-Size: [rows × columns]
+Size: [3901 × 16]
 
 Description:
 The dataset contains information on [brief description—e.g., customer transactions, sales data, product performance].
