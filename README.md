@@ -101,7 +101,7 @@ Designed for recruiters and stakeholders
 
 📊 Dashboard Preview
 
-(Insert screenshot link or image if available)
+Customer_Behviour.pbix
 
 ✅ Key Results & Insights
 
@@ -151,6 +151,6 @@ Gamma link included for online viewing
 📧 Contact
 
 If you'd like to discuss this project or collaborate, feel free to connect:
-Name: [Your Name]
-Email: [Your Email]
+Name: Bayode Adegboyega
+Email: bayodeadegboyega@gmail.com
 LinkedIn: [Your LinkedIn]
