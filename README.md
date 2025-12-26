@@ -89,11 +89,11 @@ Highlighted business implications
 
 Added visual explanations and interpretations
 
-Delivered in PDF/Word format (optional)
+Delivered in PDF/Word format
 
 7. Presentation (Gamma)
 
-Created a clean, visually appealing deck
+Created a clean, visually appealing deck: https://gamma.app/docs/5ehjvuaa1dzep6
 
 Explained methodology, insights, and dashboard walkthrough
 
@@ -146,7 +146,8 @@ Interact with dashboard filters and visuals
 
 Located in /reports folder
 
-Gamma link included for online viewing
+Gamma link included below for online viewing
+
 
 📧 Contact
 
